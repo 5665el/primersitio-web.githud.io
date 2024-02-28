@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+header{
+   display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(3, 3, 31);
+  width: 100%;
+}  
+header ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+header ul li{
+  margin: 10px;
+}
+img{
+   width: 180px;  
+}
+
+h1{
+    font-size: 35px;
+    color: #e2e9ed;
+   font-family: "Covered By Your Grace", cursive;
+}
+p{
+    font-size: px50;
+    color: #ebeff5;
+    font-family: "Covered By Your Grace", cursive;
+}
+.presentacion{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ background-color:  rgb(1, 11, 21);
+
+}
+.presentacion h1{
+font-size: 35px;
+background-color:  rgb(221, 220, 240);
+align-items: center;
+}
+.presentacion{
+  width: 98.6%;
+  font-size: 30px;
+  padding: 10px;
+  font-family:   "Covered By Your Grace", cursive;
+
+}
+
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px 0 10 px 0;
+    background-color: rgb(4, 4, 33);
+}
+.contenedor h1{
+  font-size: 35px;
+  background-color:  rgb(221, 220, 240);
+ 
+  }
+    .caja{
+      width: 100%;
+      height: 100%;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+    }
+
+    .caja img{
+      border-radius: 50%;
+    }
+      .caja p{
+        font-size: 12 pxgy78;
+      }
+     .main{
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+     }
+     .main iframe{
+      padding: 10px;
+      margin: 10px;
+     
+     }
+    
+        
+      
+
+     
+  
+
+
+
+      
+
+    
+
+ 
